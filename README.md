@@ -46,5 +46,3 @@ Project portfolio overview:
 
 ## Other sort of hobbies
 Sailing, travelling
-
-*Need more convincing on how would I be a perfect addition for NestAI? - My next idea is about using AI to spot AI-generated maps, something the best cartographers argue can't be done - up for the challenge?!*
