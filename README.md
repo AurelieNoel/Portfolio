@@ -1,4 +1,3 @@
-### Here is a brief overview of my activities, skills and expertise 
 | Spatial thinking for bridging people, place, and systems |<br />
 <!--My main goal is to use spatial data to develop local, sustainable and meaningful environmental projects, building resilient economy and society.<br /> -->
 <br />
