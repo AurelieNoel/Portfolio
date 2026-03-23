@@ -1,7 +1,6 @@
 # AURELIE NOEL
 | Spatial thinking for bridging people, place, and systems |<br />
 <!--My main goal is to use spatial data to develop local, sustainable and meaningful environmental projects, building resilient economy and society.<br /> -->
-*How I would be a perfect addition for NestAI - in the nutshell*
 <br />
 ## Profile
 Geomatics and data scientist<br />
