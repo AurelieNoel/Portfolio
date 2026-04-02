@@ -12,7 +12,7 @@ For comprehensive and detailed experience, publications and portfolio: <br />
 [Online CV](https://raw.githubusercontent.com/AurelieNoel/resume/main/AurelieNoelCV.pdf)<br />
 
 ## Expertise
-+ Spatial data science and geomatics
++ Spatial data science 
 + Data collection - fieldwork/GPS, drone imageries, IoT sensors, VR/AR, crowdsourcing/GeoApp 
 + Optical and radar remote sensing - see [Msc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_PostMSC_2008.pdf) - abstract in English - feeding recent [work](https://www.researchgate.net/publication/307665020_Recent_land_subsidence_caused_by_the_rapid_urban_development_in_the_Hanoi_region_Vietnam_using_ALOS_InSAR_data)
 + Conventional and webmapping
