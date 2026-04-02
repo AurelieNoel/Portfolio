@@ -11,11 +11,12 @@ Current professional [github](https://github.com/Novia-SCC)<br />
 Refer to my [LinkedIn](https://www.linkedin.com/in/aunoel/) or my [online CV](https://raw.githubusercontent.com/AurelieNoel/resume/main/AurelieNoelCV.pdf) for comprehensive and detailed experience, publications and portfolio
 
 ## Expertise
-+ Spatial data science
++ Spatial data science and geomatics
 + Data collection - fieldwork/GPS, drone imageries, IoT sensors, VR/AR, crowdsourcing/GeoApp 
 + Optical and radar remote sensing - see [Msc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_PostMSC_2008.pdf) - abstract in English - feeding recent [work](https://www.researchgate.net/publication/307665020_Recent_land_subsidence_caused_by_the_rapid_urban_development_in_the_Hanoi_region_Vietnam_using_ALOS_InSAR_data)
++ Conventional and webmapping
 + Machine learning + experience with supercomputer LUMI
-+ Predictive modelling - see [MSc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_Thesis_2022.pdf) or [quick maps overview](https://raw.githubusercontent.com/AurelieNoel/resume/main/Beluga_habitat_modelling.pdf)
++ Predictive modelling - e.g., habitat suitability and distribution modelling in my [paper](https://cdnsciencepub.com/doi/10.1139/as-2022-0003), [MSc thesis](https://raw.githubusercontent.com/AurelieNoel/resume/main/A_Noel_Thesis_2022.pdf) or [quick maps overview](https://raw.githubusercontent.com/AurelieNoel/resume/main/Beluga_habitat_modelling.pdf)
 + Interdisciplinary project management
 
 ## Main skills
@@ -36,7 +37,7 @@ Project portfolio overview:
 + [NylAF - agroforestry design](https://arcg.is/0OjGve0)
 + [Red-Throated divers - habitat modelling](https://raw.githubusercontent.com/AurelieNoel/resume/main/red-throated_divers_modelling.pdf)<br />
 
-**Since 2023** - Sole owner at Terrae Geomatics Environmental Services (Finland)<br />
+**Since 2023** - Sole owner at Terrae Geomatics (Finland)<br />
 **May 2022 to August 2023** - Geomatics Analyst and Cartograph Professional at [Pesca Environment](https://pescaenv.com/en/expertise) (Canada)
 
 ## Higher education
