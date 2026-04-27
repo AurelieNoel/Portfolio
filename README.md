@@ -26,7 +26,7 @@ Refer to my [LinkedIn](https://www.linkedin.com/in/aunoel/) or my [online CV](ht
 + Image processing - SNAP, ENVI
 + Drone pilot - WebODM, MapsmadeEasy - check this [example](https://www.mapsmadeeasy.com/maps/detail/c59af657ce1848c48d3dc12ca42abfce/)
 + General public communication - check this [video](https://vimeo.com/1027204321?fl=pl&fe=vl) or this [event](https://novia-scc.github.io/GeoDayRaseborg2025/)
-+ Team leadership and mentoring - check this recent [BSc work](https://storymaps.arcgis.com/stories/f7ee75353fe443569896929a27d4c8da)
++ Team leadership and mentoring - check this recent [BSc work](https://storymaps.arcgis.com/stories/f7ee75353fe443569896929a27d4c8da) and [MSc work]
 + Multilingual: EN, FR, IT, SW
 
 ## Recent professional experience
