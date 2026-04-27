@@ -32,8 +32,9 @@ Refer to my [LinkedIn](https://www.linkedin.com/in/aunoel/) or my [online CV](ht
 ## Recent professional experience
 **Since 2023** - Project leader for the [Spatial Competence Centre](https://www.novia.fi/scc/) and team leader for the [Geospatial Systems team](https://www.novia.fi/en/rdi/research-area/transformative-pathways-in-bioeconomy/research-area-in-bioeconomy/geospatial-systems) at Novia University of Applied Sciences (Finland)<br />
 Project portfolio overview: 
++ [Energy master plan - green transition support](https://arcg.is/1SaKrq3)
 + [Case Västerby - sustainable forestry](https://arcg.is/1vDnK11)
-+ [CNE2.0 - sustainable tourism](https://arcg.is/1Prr193)
++ [CNE2.0 - sustainable tourism](https://arcg.is/y5q1T1)
 + [NylAF - agroforestry design](https://arcg.is/0OjGve0)
 + [Red-Throated divers - habitat modelling](https://raw.githubusercontent.com/AurelieNoel/resume/main/red-throated_divers_modelling.pdf)<br />
 
