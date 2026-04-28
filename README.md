@@ -1,11 +1,12 @@
 ## Geomatics and data scientist<br />
 | Spatial thinking for bridging people, place, and systems |<br />
 <!--My main goal is to use spatial data to develop local, sustainable and meaningful environmental projects, building resilient economy and society.<br /> -->
-+ Owner of Terrae Geomatics (idling Y-tunnus: 3343079-5; geospatial services)
 + MSc of Science in Environment and Geography
 + aurelie.noel@outlook.com
 + +358451702204
 + Current professional [github](https://github.com/Novia-SCC)
++ Owner of Terrae Geomatics (idling Y-tunnus: 3343079-5; geospatial services)
+  <img width="150" height="150" alt="logo_trans" src="https://github.com/user-attachments/assets/a8ae8b62-27b8-48f6-9ad9-2397f1525cad" />
 
 For comprehensive and detailed experience, publications and portfolio: <br />
 [LinkedIn](https://www.linkedin.com/in/aunoel/)<br />
